@@ -16,9 +16,9 @@ AppAmbit gives developers reliable tools to:
 
 We provide open-source SDKs that plug right into your apps:
 
-* [iOS SDK](https://github.com/appambit/appambit-ios)
-* [Android SDK](https://github.com/appambit/appambit-android)
-* [.NET MAUI SDK](https://github.com/appambit/appambit-maui)
+* [iOS SDK](https://github.com/appambit/appambit-sdkiios)
+* [Android SDK](https://github.com/AppAmbit/appambit-sdk-android)
+* [.NET MAUI SDK](https://github.com/appambit/appambit-sdk-maui)
 
 (Flutter, React Native, macOS, and Windows coming soon)
 
@@ -32,7 +32,7 @@ We provide open-source SDKs that plug right into your apps:
 
 ## 💬 Community
 
-* 🛠️ [Discord](#) (coming soon)
+* 🛠️ [Discord](https://discord.gg/nmbdbCZmQX)
 * 💌 [hello@appambit.com](mailto:hello@appambit.com)
 
 ---
@@ -40,5 +40,5 @@ We provide open-source SDKs that plug right into your apps:
 ## 🚧 Status
 
 ⚡ Currently in **private beta**.
-Join early → [appambit.com](https://appambit.com)
+Join early → [appambit.com/welcome](https://appambit.com/welcome)
 
