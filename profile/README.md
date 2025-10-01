@@ -32,7 +32,7 @@ We provide open-source SDKs that plug right into your apps:
 
 ## 💬 Community
 
-* 🛠️ [Discord](https://discord.gg/nmbdbCZmQX)
+* 🛠️ [Discord](https://discord.gg/nJyetYue2s)
 * 💌 [hello@appambit.com](mailto:hello@appambit.com)
 
 ---
